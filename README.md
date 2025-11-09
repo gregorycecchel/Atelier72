@@ -200,7 +200,7 @@ Le site est disponible via **netlify**:
 
 ## Auteurs
 
-**Mathias ANDRAU**
+**Mathias ANDRAU** 
 - GitHub : [@Mathijas29](https://github.com/Mathijas29)
 - Email : mathias.andrau29@gmail.com
 
