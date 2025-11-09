@@ -9,25 +9,20 @@
 
 Site web vitrine pour la galerie d'art **ATELIER 72**, présentant l'exposition "Solitudes croisées" de l'artiste **Bilal Hamdad**. Ce projet a été développé dans le cadre d'un travail académique en trois étapes : conception graphique, intégration web et optimisation SEO/accessibilité.
 
----
 
 ## Objectifs du projet
 
-### Etape 1 : Le prototype
+### Étape 1 : Le prototype
 La première étape de réalisation du projet va nous permettre de définir l’aspect graphique du projet. Ainsi, nous devrons montrer à M. DECHEWSKY éventuellement le storyboard, les personas (non obligatoires) selon l’étude UX, le benchmark, les visuels (logo par exemple) et la maquette graphique à différentes phases de création (wireframe, prototype, mock-up, etc.).
 
-### Étape 2 : Intégration web
-- Transcription fidèle de la maquette graphique en HTML/CSS
-- Respect strict de la charte graphique établie
-- Développement **Mobile First** avec design responsive
-- Validation W3C HTML et CSS sans erreur
-- Versioning avec Git et commits réguliers
+### Étape 2 : Le site web
+La seconde étape du projet est le résultat de l’intégration de la maquette graphique proposée à l’étape 1. La transcription numérique, permettant une publication sur le web, doit scrupuleusement respecter l’aspect et les contraintes graphiques que nous avons précédemment fixés (logo, couleurs, typographie, organisation visuelle, etc.).
 
-### Étape 3 : Optimisation SEO et Accessibilité
-- Application des règles de référencement naturel (SEO)
-- Conformité WCAG 2.0 pour l'accessibilité
-- Structure sémantique optimisée
-- Documentation des mesures d'optimisation
+D’autre part, l’affichage du site doit être responsive afin de s’adapter à tous les formats d’écran, la priorité initiale étant basée sur un support mobile, de type smartphone.
+
+### Étape 3 : L'accessibilité et le référencementDevoir
+
+La dernière étape consiste essentiellement à lister l’application des principales règles de référencement naturel (SEO) et d’accessibilité du site web. Il est donc nécessaire que nous dressions un tableau précisant les mesures mises en place par thème (référencement et accessibilité), avec l’indication de la ligne d’écriture dans le fichier correspondant HTML et/ou CSS.
 
 ---
 
