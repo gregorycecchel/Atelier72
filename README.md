@@ -203,7 +203,7 @@ Le site est disponible via **netlify**:
 - Email : mathias.andrau29@gmail.com
 
 **Alina Stanimak**
-- GitHub : [@alinastanimak4](https://github.com/alinastanimak4)
+- GitHub : [alinastanimak4-droid](https://github.com/alinastanimak4-droid)
 - Email : alinastanimak@gmail.com
 
 **Grégory CECCHEL**
