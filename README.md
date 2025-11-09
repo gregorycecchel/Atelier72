@@ -11,7 +11,7 @@ Site web vitrine pour la galerie d'art **ATELIER 72**, présentant l'exposition 
 
 ---
 
-## 🎯 Objectifs du projet
+## Objectifs du projet
 
 ### Étape 1 : Conception graphique (UX/UI Design)
 - Définition de l'identité visuelle (logo, palette de couleurs, typographie)
@@ -35,7 +35,7 @@ Site web vitrine pour la galerie d'art **ATELIER 72**, présentant l'exposition 
 
 ---
 
-## 🎨 Charte graphique
+## Charte graphique
 
 ### Palette de couleurs
 | Couleur | Code | Usage |
@@ -73,7 +73,7 @@ Logo vectoriel SVG "ATELIER 72" présent dans le header et le footer
 
 ---
 
-## 🚀 Fonctionnalités
+## Fonctionnalités
 
 - Navigation intuitive avec menu ancré
 - Section hero avec image de l'exposition
@@ -86,7 +86,7 @@ Logo vectoriel SVG "ATELIER 72" présent dans le header et le footer
 
 ---
 
-## 📱 Responsive Design
+## Responsive Design
 
 Le site a été développé selon l'approche **Mobile First** :
 
@@ -97,7 +97,7 @@ Le site a été développé selon l'approche **Mobile First** :
 
 ---
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 
 - **HTML5** - Structure sémantique
 - **CSS3** - Styles et animations
@@ -106,7 +106,7 @@ Le site a été développé selon l'approche **Mobile First** :
 
 ---
 
-## 📁 Structure du projet
+## Structure du projet
 
 ```
 atelier72/
@@ -131,7 +131,7 @@ atelier72/
 
 ---
 
-## ✅ Validation et conformité
+## Validation et conformité
 
 ### Validation W3C
 -  **HTML** : Validation W3C sans erreur
@@ -160,7 +160,7 @@ atelier72/
 
 ---
 
-## 🚀 Installation et utilisation
+## Installation et utilisation
 
 ### En local
 
@@ -186,7 +186,7 @@ Le site est disponible via **netlify**:
 
 ---
 
-## 📊 Améliorations futures
+## Améliorations futures
 
 - Galerie d'œuvres avec lightbox
 - Animations CSS avancées
@@ -196,7 +196,7 @@ Le site est disponible via **netlify**:
 
 ---
 
-## 👨‍💻 Auteurs
+## Auteurs
 
 **Mathias ANDRAU**
 - GitHub : [@Mathijas29](https://github.com/Mathijas29)
