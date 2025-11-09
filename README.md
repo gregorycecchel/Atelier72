@@ -5,7 +5,7 @@
 [![Responsive](https://img.shields.io/badge/Responsive-Mobile%20First-green)](https://developer.mozilla.org/fr/docs/Web/Progressive_web_apps)
 [![W3C Validated](https://img.shields.io/badge/W3C-Validated-brightgreen)](https://validator.w3.org/)
 
-## 📋 Description du projet
+## Description du projet
 
 Site web vitrine pour la galerie d'art **ATELIER 72**, présentant l'exposition "Solitudes croisées" de l'artiste **Bilal Hamdad**. Ce projet a été développé dans le cadre d'un travail académique en trois étapes : conception graphique, intégration web et optimisation SEO/accessibilité.
 
