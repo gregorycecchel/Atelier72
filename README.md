@@ -214,7 +214,7 @@ Le site est disponible via **netlify**:
 
 ---
 
-## 📄 Licence
+## Licence
 
 Ce projet a été réalisé dans un cadre académique pour M. PERPIGNAN.
 
