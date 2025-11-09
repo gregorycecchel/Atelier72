@@ -13,12 +13,8 @@ Site web vitrine pour la galerie d'art **ATELIER 72**, présentant l'exposition 
 
 ## Objectifs du projet
 
-### Etape 1 : Le prototypeDevoir
-- Définition de l'identité visuelle (logo, palette de couleurs, typographie)
-- Création de wireframes et prototypes
-- Élaboration de la maquette graphique (mock-up)
-- Étude UX avec personas et benchmark
-- Validation du storyboard
+### Etape 1 : Le prototype
+La première étape de réalisation du projet va nous permettre de définir l’aspect graphique du projet. Ainsi, nous devrons montrer à M. DECHEWSKY éventuellement le storyboard, les personas (non obligatoires) selon l’étude UX, le benchmark, les visuels (logo par exemple) et la maquette graphique à différentes phases de création (wireframe, prototype, mock-up, etc.).
 
 ### Étape 2 : Intégration web
 - Transcription fidèle de la maquette graphique en HTML/CSS
