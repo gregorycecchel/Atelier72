@@ -42,16 +42,18 @@ Site web vitrine pour la galerie d'art **ATELIER 72**, présentant l'exposition 
 |---------|------|-------|
 | **Noir pur** | `#000000` | Header, footer, éléments principaux |
 | **Blanc** | `#FFFFFF` | Texte sur fond sombre, boutons |
-| **Gris clair** | `#f5f5f0` | Fond section exposition |
+| **Gris clair** | `#F5F5F3` | Fond section exposition |
 | **Gris foncé** | `#333333` | Texte principal, bordures |
 | **Gris moyen** | `#666666` | Texte secondaire |
-| **Beige** | `#f8f8f8` | Cartes événements |
-| **Marron foncé** | `#4a3a2a` | Bordures œuvres d'art |
+| **Beige** | `#D9D9D9` | Cartes événements |
+| **Marron foncé** | `#4B1806` | Bordures œuvres d'art |
 | **Gris bouton** | `#4a4a4a` | Call-to-action hero |
 | **Dégradé événements** | `#1a2e1a` → `#4a2d1a` | Fond section événements |
 
 ### Typographie
-- **Police principale** : `'Arial', 'Helvetica', sans-serif`
+- **Police principale PROVISOIRE** : `'Arial', 'Helvetica', sans-serif`
+- **Police finale** : `'Almarai', sans-serif`
+- **Police du logo** : `'Aileron', sans-serif`
 - **Interligne** : `1.6` (corps de texte)
 - **Lettrage** : 
   - Titres principaux : `letter-spacing: 3-4px`
