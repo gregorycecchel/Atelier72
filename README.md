@@ -13,7 +13,7 @@ Site web vitrine pour la galerie d'art **ATELIER 72**, présentant l'exposition 
 
 ## Objectifs du projet
 
-### Étape 1 : Conception graphique (UX/UI Design)
+### Etape 1 : Le prototypeDevoir
 - Définition de l'identité visuelle (logo, palette de couleurs, typographie)
 - Création de wireframes et prototypes
 - Élaboration de la maquette graphique (mock-up)
