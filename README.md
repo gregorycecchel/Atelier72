@@ -24,7 +24,6 @@ D’autre part, l’affichage du site doit être responsive afin de s’adapter 
 
 La dernière étape consiste essentiellement à lister l’application des principales règles de référencement naturel (SEO) et d’accessibilité du site web. Il est donc nécessaire que nous dressions un tableau précisant les mesures mises en place par thème (référencement et accessibilité), avec l’indication de la ligne d’écriture dans le fichier correspondant HTML et/ou CSS.
 
----
 
 ## Charte graphique
 
@@ -64,7 +63,6 @@ Logo vectoriel SVG "ATELIER 72" présent dans le header et le footer
 - Footer : `height: 50px`
 - Mobile : `height: 32-40px` (adaptatif)
 
----
 
 ## Fonctionnalités
 
@@ -77,7 +75,6 @@ Logo vectoriel SVG "ATELIER 72" présent dans le header et le footer
 - Informations de contact et réseaux sociaux
 - Design 100% responsive (mobile, tablette, desktop)
 
----
 
 ## Responsive Design
 
@@ -88,7 +85,6 @@ Le site a été développé selon l'approche **Mobile First** :
 - **Tablette** : 768px - 1024px
 - **Desktop** : > 1024px
 
----
 
 ## Technologies utilisées
 
@@ -97,7 +93,6 @@ Le site a été développé selon l'approche **Mobile First** :
 - **JavaScript** - Interactions (formulaire newsletter)
 - **SVG** - Logo et icônes vectoriels
 
----
 
 ## Structure du projet
 
@@ -122,7 +117,6 @@ atelier72/
     └── Gregory.png
 ```
 
----
 
 ## Validation et conformité
 
@@ -151,7 +145,6 @@ atelier72/
 | **Liens internes** | Navigation fluide entre sections | index.html (menu) |
 | **Viewport** | Meta viewport pour mobile | index.html (l.5) |
 
----
 
 ## Installation et utilisation
 
@@ -175,9 +168,6 @@ cd atelier72
 Le site est disponible via **netlify**:
 [https/atelier72.netlify.app/#top](https/atelier72.netlify.app/#top)
 
----
-
----
 
 ## Améliorations futures
 
@@ -187,7 +177,6 @@ Le site est disponible via **netlify**:
 - Multilingue (FR/EN)
 - Optimisation des images (WebP)
 
----
 
 ## Auteurs
 
@@ -203,14 +192,10 @@ Le site est disponible via **netlify**:
 - GitHub : [@gregorycecchel](https://github.com/gregorycecchel)
 - Email : gregory.cecchel@gmail.com
 
----
 
 ## Licence
 
 Ce projet a été réalisé dans un cadre académique pour M. PERPIGNAN.
 
----
-
----
 
 **Dernière mise à jour** : Novembre 2025# Atelier72
