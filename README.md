@@ -20,49 +20,46 @@ La seconde étape du projet est le résultat de l’intégration de la maquette 
 
 D’autre part, l’affichage du site doit être responsive afin de s’adapter à tous les formats d’écran, la priorité initiale étant basée sur un support mobile, de type smartphone.
 
-### Étape 3 : L'accessibilité et le référencementDevoir
+### Étape 3 : L'accessibilité et le référencement
 
 La dernière étape consiste essentiellement à lister l’application des principales règles de référencement naturel (SEO) et d’accessibilité du site web. Il est donc nécessaire que nous dressions un tableau précisant les mesures mises en place par thème (référencement et accessibilité), avec l’indication de la ligne d’écriture dans le fichier correspondant HTML et/ou CSS.
 
 
-## Charte graphique
+## 🎨 Charte graphique
 
 ### Palette de couleurs
 | Couleur | Code | Usage |
 |---------|------|-------|
 | **Noir pur** | `#000000` | Header, footer, éléments principaux |
 | **Blanc** | `#FFFFFF` | Texte sur fond sombre, boutons |
-| **Gris clair** | `#F5F5F3` | Fond section exposition |
+| **Gris clair** | `#F5F5F0` | Fond section exposition |
 | **Gris foncé** | `#333333` | Texte principal, bordures |
 | **Gris moyen** | `#666666` | Texte secondaire |
-| **Beige** | `#D9D9D9` | Cartes événements |
-| **Marron foncé** | `#4B1806` | Bordures œuvres d'art |
 | **Gris bouton** | `#4a4a4a` | Call-to-action hero |
+| **Marron bordure** | `#4a3a2a` | Bordures œuvres d'art |
 | **Dégradé événements** | `#1a2e1a` → `#4a2d1a` | Fond section événements |
 
 ### Typographie
-- **Police principale PROVISOIRE** : `'Arial', 'Helvetica', sans-serif`
-- **Police finale** : `'Almarai', sans-serif`
-- **Police du logo** : `'Aileron', sans-serif`
+- **Police titres/navigation** : `'Aileron', sans-serif`
+- **Police corps de texte** : `'Almarai', sans-serif`
 - **Interligne** : `1.6` (corps de texte)
-- **Lettrage** : 
-  - Titres principaux : `letter-spacing: 3-4px`
-  - Navigation : `letter-spacing: 1.5px`
-  - Boutons : `letter-spacing: 2px`
+- **Espacement lettres** : 
+  - Titres principaux : `3-4px`
+  - Navigation : `1.5px`
+  - Boutons : `2px`
 - **Hiérarchie** :
   - H1 (Hero) : `48px` / `font-weight: 400`
   - H2 (Sections) : `32px` / `font-weight: 400`
   - H3 (Artiste) : `28px` / `font-weight: bold`
   - H4 (Œuvres) : `18px` / `font-weight: 400`
   - Navigation : `14px`
-  - Corps de texte : `16px`
+  - Corps : `16px`
 
 ### Logo
-Logo vectoriel SVG "ATELIER 72" présent dans le header et le footer
-- Header : `height: 50px`
-- Footer : `height: 50px`
-- Mobile : `height: 32-40px` (adaptatif)
-
+Logo vectoriel SVG "ATELIER 72"
+- Header : `50px`
+- Footer : `50px`
+- Mobile : `32-40px` (adaptatif)
 
 ## Fonctionnalités
 
