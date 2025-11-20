@@ -206,8 +206,8 @@ cd atelier72
 
 ### En ligne
 
-Le site est disponible via **Netlify** :
-[https://atelier72.netlify.app](https://atelier72.netlify.app/#top)
+Le site est disponible via **GitPage** :
+[https://gregorycecchel.github.io/Atelier72/](https://gregorycecchel.github.io/Atelier72/)
 
 
 ## Améliorations futures
