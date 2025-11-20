@@ -13,7 +13,7 @@ Site web vitrine pour la galerie d'art **ATELIER 72**, présentant l'exposition 
 ## Objectifs du projet
 
 ### Étape 1 : Le prototype
-La première étape de réalisation du projet va nous permettre de définir l'aspect graphique du projet. Ainsi, nous devrons montrer à M. DECHEWSKY éventuellement le storyboard, les personas (non obligatoires) selon l'étude UX, le benchmark, les visuels (logo par exemple) et la maquette graphique à différentes phases de création (wireframe, prototype, mock-up, etc.).
+La première étape de réalisation du projet va nous permettre de définir l'aspect graphique du projet. Ainsi, nous devrons montrer à M. PERPIGNAN éventuellement le storyboard, les personas (non obligatoires) selon l'étude UX, le benchmark, les visuels (logo par exemple) et la maquette graphique à différentes phases de création (wireframe, prototype, mock-up, etc.).
 
 ### Étape 2 : Le site web
 La seconde étape du projet est le résultat de l'intégration de la maquette graphique proposée à l'étape 1. La transcription numérique, permettant une publication sur le web, doit scrupuleusement respecter l'aspect et les contraintes graphiques que nous avons précédemment fixés (logo, couleurs, typographie, organisation visuelle, etc.).
@@ -25,7 +25,7 @@ D'autre part, l'affichage du site doit être responsive afin de s'adapter à tou
 La dernière étape consiste essentiellement à lister l'application des principales règles de référencement naturel (SEO) et d'accessibilité du site web. Il est donc nécessaire que nous dressions un tableau précisant les mesures mises en place par thème (référencement et accessibilité), avec l'indication de la ligne d'écriture dans le fichier correspondant HTML et/ou CSS.
 
 
-## 🎨 Charte graphique
+## Charte graphique
 
 ### Palette de couleurs
 
